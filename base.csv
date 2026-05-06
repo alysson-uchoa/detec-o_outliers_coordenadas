@@ -1,0 +1,36 @@
+id_cliente,nome_cliente,quantidade,produto,valor_total,cidade,estado,latitude,longitude
+1,Ana Souza,2,Notebook,4800,Recife,PE,-8.0476,-34.8770
+2,Bruno Lima,1,Mouse,80,Recife,PE,-8.1200,-34.9500
+3,Carlos Silva,3,Teclado,450,Recife,PE,51.5074,-0.1278
+4,Daniela Alves,1,Monitor,1200,São Paulo,SP,-23.5505,-46.6333
+5,Eduardo Costa,2,Impressora,900,São Paulo,SP,-23.6500,-46.5500
+6,Fernanda Rocha,1,Cadeira,1500,São Paulo,SP,-23.4800,-46.7000
+7,Gustavo Martins,4,HD,800,São Paulo,SP,-23.6200,-46.7200
+8,Helena Nunes,2,SSD,600,São Paulo,SP,-23.5000,-46.6000
+9,Igor Teixeira,1,Placa Video,2500,São Paulo,SP,-23.7000,-46.5800
+10,Juliana Prado,2,Notebook,5000,São Paulo,SP,-23.5800,-46.6500
+11,Kevin Barros,3,Mouse,240,São Paulo,SP,-23.6100,-46.6300
+12,Larissa Melo,1,Teclado,150,São Paulo,SP,-23.5300,-46.6800
+13,Marcos Freitas,5,Monitor,6000,São Paulo,SP,-23.6700,-46.6200
+14,Natália Ribeiro,2,Impressora,1000,São Paulo,SP,40.7128,-74.0060
+15,Otávio Duarte,1,Cadeira,1800,São Paulo,SP,48.8566,2.3522
+16,Aline Castro,2,Notebook,4200,Belo Horizonte,MG,-19.9167,-43.9345
+17,Breno Farias,1,Mouse,90,Belo Horizonte,MG,-19.8500,-43.9700
+18,Camila Pires,3,Teclado,300,Belo Horizonte,MG,-19.9500,-43.9000
+19,Diego Rocha,2,Monitor,1400,Belo Horizonte,MG,-19.9000,-44.0500
+20,Elaine Gomes,1,Cadeira,1600,Belo Horizonte,MG,-19.9800,-43.8800
+21,Felipe Souza,4,HD,700,Belo Horizonte,MG,-19.8700,-43.9100
+22,Giovana Alves,2,SSD,500,Belo Horizonte,MG,-19.9300,-43.9500
+23,Henrique Dias,1,Notebook,3500,Belo Horizonte,MG,-19.8900,-43.9900
+24,Iara Mendes,3,Mouse,150,Belo Horizonte,MG,35.6895,139.6917
+25,João Vitor,2,Teclado,200,Belo Horizonte,MG,41.9028,12.4964
+26,Karla Nunes,2,Notebook,4100,Fortaleza,CE,-3.7319,-38.5267
+27,Lucas Silva,1,Mouse,70,Fortaleza,CE,-3.8500,-38.4500
+28,Marina Rocha,3,Teclado,400,Fortaleza,CE,-3.7000,-38.6000
+29,Nicolas Prado,2,SSD,500,Fortaleza,CE,-3.7800,-38.4800
+30,Olivia Lima,1,Monitor,1200,Fortaleza,CE,34.0522,-118.2437
+31,Paulo Alves,2,Notebook,3900,Salvador,BA,-12.9777,-38.5016
+32,Renata Costa,1,Mouse,60,Salvador,BA,-13.0200,-38.4200
+33,Sandro Teixeira,3,Teclado,350,Salvador,BA,-12.9500,-38.5500
+34,Tatiane Melo,2,SSD,550,Salvador,BA,-13.1000,-38.4800
+35,Ulisses Duarte,1,Monitor,1300,Salvador,BA,55.7558,37.6173
